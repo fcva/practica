@@ -4,4 +4,9 @@ class Freddy {
 
 	}
 
+	public function saludar() {
+	
+		echo "Hola";
+	}
+
 }
