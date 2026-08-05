@@ -1,6 +1,5 @@
 <?php
 
-class Linda
-{
+class Linda{
 
 }
